@@ -1,5 +1,5 @@
-- 👋 Olá, sou a Mariana!
-- 🌱 Estou estudando C#
+- 👋 Olá, Mundo! Sou a Mariana!
+- Ingressei no mundo dos dev's há menos de um ano. Comecei os meus estudos em linguagem C#.
 
 <div>
 <a href="https://github.com/marimillian">
